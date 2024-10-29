@@ -1,0 +1,96 @@
+{
+    "vehicles": {
+        "cars": [
+            {
+                "id": 1,
+                "model": "Volvo",
+                "motor": "2.0L",
+                "tires": "17 inch",
+                "seats": 5
+            },
+            {
+                "id": 2,
+                "model": "BMW",
+                "motor": "3.0L",
+                "tires": "18 inch",
+                "seats": 4
+            },
+            {
+                "id": 3,
+                "model": "Audi",
+                "motor": "2.5L",
+                "tires": "19 inch",
+                "seats": 5
+            },
+            {
+                "id": 4,
+                "model": "Tesla",
+                "motor": "Electric",
+                "tires": "18 inch",
+                "seats": 5
+            }
+        ],
+        "motorcycles": [
+            {
+                "id": 1,
+                "model": "Harley Davidson",
+                "motor": "1.8L",
+                "tires": "16 inch",
+                "seats": 3
+            },
+            {
+                "id": 2,
+                "model": "Kawasaki",
+                "motor": "1.4L",
+                "tires": "17 inch",
+                "seats": 2
+            },
+            {
+                "id": 3,
+                "model": "Ducati",
+                "motor": "1.2L",
+                "tires": "17 inch",
+                "seats": 1
+            },
+            {
+                "id": 4,
+                "model": "Yamaha",
+                "motor": "1.0L",
+                "tires": "15 inch",
+                "seats": 1
+            }
+        ]
+    },
+    "people": [
+        {
+            "id": 1,
+            "hasLicense": "ja",
+            "hairColor": "brunett",
+            "age": 30
+        },
+        {
+            "id": 2,
+            "hasLicense": "nej",
+            "hairColor": "blond",
+            "age": 25
+        },
+        {
+            "id": 3,
+            "hasLicense": "Nej",
+            "hairColor": "svart",
+            "age": 40
+        },
+        {
+            "id": 4,
+            "hasLicense": "ja",
+            "hairColor": "röd",
+            "age": 35
+        },
+        {
+            "id": 5,
+            "hasLicense": "nej",
+            "hairColor": "grå",
+            "age": 20
+        }
+    ]
+}

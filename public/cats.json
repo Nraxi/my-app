@@ -1,0 +1,76 @@
+{
+  "cats": [
+    {
+      "name": "Parker",
+      "age": 3,
+      "cutenessLevel": 82,
+      "allergyInducingFur": false,
+      "livesLeft": 8
+    },
+    {
+      "name": "Savage",
+      "age": 7,
+      "cutenessLevel": 47,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Ginger",
+      "age": 5,
+      "cutenessLevel": 20,
+      "allergyInducingFur": false,
+      "livesLeft": 9
+    },
+    {
+      "name": "Farrell",
+      "age": 4,
+      "cutenessLevel": 76,
+      "allergyInducingFur": false,
+      "livesLeft": 1
+    },
+    {
+      "name": "Bruce",
+      "age": 6,
+      "cutenessLevel": 96,
+      "allergyInducingFur": false,
+      "livesLeft": 9
+    }
+  ],
+  "randomAnimals": [
+    {
+      "type": "Rabbit",
+      "stepsTaken": 1200,
+      "legs": 4,
+      "age": 2,
+      "cutenessLevel": 85
+    },
+    {
+      "type": "Turtle",
+      "stepsTaken": 200,
+      "legs": 4,
+      "age": 50,
+      "cutenessLevel": 60
+    },
+    {
+      "type": "Parrot",
+      "stepsTaken": 900,
+      "legs": 2,
+      "age": 5,
+      "cutenessLevel": 75
+    },
+    {
+      "type": "Dog",
+      "stepsTaken": 3000,
+      "legs": 4,
+      "age": 3,
+      "cutenessLevel": 90
+    },
+    {
+      "type": "Horse",
+      "stepsTaken": 5000,
+      "legs": 4,
+      "age": 7,
+      "cutenessLevel": 70
+    }
+  ]
+}
